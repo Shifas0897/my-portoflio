@@ -1,0 +1,70 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Frontend",
+      "description": "Use frontend frameworks (e.g., React, Angular, Vue) to structure the application and manage UI components. Responsive Design: Ensure that the frontend is optimized for different screen sizes and devices (desktop, tablet, mobile. I Focused on the client-side of the web, implementing interactive and dynamic elements."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Backend",
+      "description": "I Developed and implemented the logic and functionality that runs on the server to process client requests. API Development: Create RESTful or GraphQL APIs for communication between the frontend and backend. Technologies can include Node.js, Python, Ruby, Java, PHP, and more."
+    },
+    {
+      "id": "3",
+      "src": "./img/cmptr-logo-1.png",
+      "title": "CCTV & Control Room",
+      "description": "  Closed-Circuit Television (CCTV) cameras are a surveillance system I used to monitor and record activities in specific areas. These cameras transmit video footage to designated monitors or recording devices, often used for security, safety, or monitoring purposes in public or private spaces."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "I did as Web developers are typically involved in the end-to-end process of website creation, from initial design through to deployment and maintenance, ensuring that the website operates efficiently and meets users' needs. I Designed and Developed Websites:I build fully functional and responsive websites." 
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/netflix logo.jpg",
+      "title": "Netflix Clone",
+      "description": "I did Netflix project focuses on developing a streaming platform that offers a wide range of movies, TV shows, documentaries, and original content to users worldwide.",
+      "link": ""
+    },
+    {
+      "id": "2",
+      "src": "./img/amazon logo.jpg",
+      "title": "Amazon Clone",
+      "description": "I did Amazon Clone, Which is a leading global e-commerce platform offering a vast selection of products, from electronics and clothing to books and groceries.It's a one-stop shop for a wide range of products and services, catering to millions of customers worldwide.",
+      "link": ""
+    },
+    {
+      "id": "3",
+      "src": "./img/forum logo.jpg",
+      "title": "Evangadi Forum",
+      "description": "Evangadi Forum is an online community that connects individuals from the Ethiopian diaspora. It serves as a platform for sharing Technological development in modern world. I did here Frontend and Backend development. ",
+      "link": ""
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./img/avatar-image.png",
+      "description": "Software engineers work across various stages of development, including planning, design, coding, testing, and deployment. I focus on ensuring software quality, security, and scalability through best practices and continuous improvement. Collaboration with cross-functional teams is crucial for delivering projects on time and within budget. Ultimately, software engineering aims to create reliable, user-friendly applications that solve real-world problems efficiently.",
+      "author_name": "Dianne Russel"
+      
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "The frontend development was efficient, creating a clean and responsive design. The user     experience is smooth, and the site looks great across all devices. A few tweaks were needed post-launch, but the overall result was strong.The backend integration was seamless, and all features were functional as promised. Performance was optimized, though some minor bugs were identified after deployment. Overall, the system is solid and reliable.",
+      "author_name": "Kristin Watson"
+      
+    }
+   
+  ]
+}
