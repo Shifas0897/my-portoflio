@@ -25,29 +25,34 @@
       "description": "I did as Web developers are typically involved in the end-to-end process of website creation, from initial design through to deployment and maintenance, ensuring that the website operates efficiently and meets users' needs. I Designed and Developed Websites:I build fully functional and responsive websites." 
     }
   ],
-  "portfolio": [
-    {
-      "id": "1",
-      "src": "./img/netflix logo.jpg",
-      "title": "Netflix Clone",
-      "description": "I did Netflix project focuses on developing a streaming platform that offers a wide range of movies, TV shows, documentaries, and original content to users worldwide.",
-      "link": ""
-    },
-    {
-      "id": "2",
-      "src": "./img/amazon logo.jpg",
-      "title": "Amazon Clone",
-      "description": "I did Amazon Clone, Which is a leading global e-commerce platform offering a vast selection of products, from electronics and clothing to books and groceries.It's a one-stop shop for a wide range of products and services, catering to millions of customers worldwide.",
-      "link": ""
-    },
-    {
-      "id": "3",
-      "src": "./img/forum logo.jpg",
-      "title": "Evangadi Forum",
-      "description": "Evangadi Forum is an online community that connects individuals from the Ethiopian diaspora. It serves as a platform for sharing Technological development in modern world. I did here Frontend and Backend development. ",
-      "link": ""
-    }
-  ],
+  
+    "portfolio": [
+      {
+        "id": "1",
+        "src": "./img/netflix logo.jpg",
+        "title": "Netflix clone",
+        "description": "I did Netflix project focuses on developing a streaming platform that offers a wide range of movies, TV shows, documentaries, and original content to users worldwide.",
+        "liveLink": "https://live-link1.com",
+        "githubLink": "https://github.com/Shifas0897/Netflix_sev"
+      },
+      {
+        "id": "2",
+        "src": "./img/amazon logo.jpg",
+        "title": "Amazon Clone",
+        "description": "I did Amazon Clone, Which is a leading global e-commerce platform offering a vast selection of products, from electronics and clothing to books and groceries.It's a one-stop shop for a wide range of products and services, catering to millions of customers worldwide.",
+        "liveLink": "https://amazonclone-com.netlify.app/",
+        "githubLink": "https://github.com/Shifas0897/amazon-forntend"
+      },
+      {
+        "id": "3",
+        "src": "./img/forum logo.jpg",
+        "title": "Evangadi Forum",
+        "description": "Evangadi Forum is an online community that connects individuals from the Ethiopian diaspora. It serves as a platform for sharing Technological development in modern world. I did here Frontend and Backend development.",
+        "liveLink": " https://evangadi-qa.netlify.app/ ",
+        "githubLink": "https://github.com/Shifas0897/Evangadi-Forum"
+      }
+    ],
+  
   "testimonial": [
     {
       "id": "1",

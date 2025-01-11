@@ -18,7 +18,7 @@ export default function HeroSection() {
         <button className="btn btn-primary">Get In Touch</button>
       </div>
       <div className="hero--section--img">
-        <img src="./img/my-photo.jpg" alt="Hero Section" />
+        <img src="./img/pht at CCTV.jpg" alt="Hero Section" />
       </div>
     </section>
   );
